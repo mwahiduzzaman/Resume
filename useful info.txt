@@ -1,0 +1,8 @@
+To find beautiful colors: visit colorhunt.co
+
+usefull sites:
+stackoverflow
+w3school
+mdn : developer.mozilla.org
+
+devdocs.io to learn HTML, CSS contents
